@@ -23,7 +23,7 @@
     "core-js": "^2.5.4",
     "bootstrap": "4.2.1",
     "font-awesome": "^4.7.0",
-    "jquery": "1.9.1",
+    "jquery": "3.5.0",
     "popper.js": "1.14.6",
     "rxjs": "^6.3.3",
     "rxjs-compat": "^6.3.3",
